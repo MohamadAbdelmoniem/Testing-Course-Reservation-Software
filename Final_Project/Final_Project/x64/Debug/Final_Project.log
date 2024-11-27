@@ -1,0 +1,6 @@
+﻿  main.c
+D:\Moataz\Work\Edges\Testing\Testing_Diploma\Testing_Diploma\New\Final Project\Final_Project\main.c(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  D:\Moataz\Work\Edges\Testing\Testing_Diploma\Testing_Diploma\New\Final Project\Final_Project\main.c(3,1):
+  '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+  Final_Project.vcxproj -> D:\Moataz\Work\Edges\Testing\Testing_Diploma\Testing_Diploma\New\Final Project\Final_Project\x64\Debug\Final_Project.exe
